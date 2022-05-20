@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aylixx
-- 👀 I’m interested in web development
+- 👀 I’m interested in software/web development
 - 🌱 I recently finished my fourth year of university for my B.Sc. in Computer Science
 - 💞️ I’m currently learning the MERN stack
 - 📫 Check my portfolio at http://coltonaylix.com
